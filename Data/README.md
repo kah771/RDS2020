@@ -1,5 +1,5 @@
 # RDS2020
-Kaggle Data Descriptions
+Kaggle Data Descriptions -- https://www.kaggle.com/c/home-credit-default-risk/overview
 
 1. application_{train|test}.csv
 
